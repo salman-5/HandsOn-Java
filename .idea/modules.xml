@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bus/Bus.iml" filepath="$PROJECT_DIR$/Bus/Bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football/Football.iml" filepath="$PROJECT_DIR$/Football/Football.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HandsOn.iml" filepath="$PROJECT_DIR$/.idea/HandsOn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/Hashmap/Hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LamdaFn/LamdaFn.iml" filepath="$PROJECT_DIR$/LamdaFn/LamdaFn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poly/Poly.iml" filepath="$PROJECT_DIR$/Poly/Poly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionFee/TransactionFee.iml" filepath="$PROJECT_DIR$/TransactionFee/TransactionFee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreemapH/TreemapH.iml" filepath="$PROJECT_DIR$/TreemapH/TreemapH.iml" />
+    </modules>
+  </component>
+</project>
