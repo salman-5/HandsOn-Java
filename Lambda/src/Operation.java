@@ -1,3 +1,3 @@
 public interface Operation {
-    float execute(float a,float b);
+    float execute(float a, float b);
 }

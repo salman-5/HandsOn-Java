@@ -17,11 +17,11 @@ public class Player {
         return age;
     }
 
-    public  void setAge(int age) {
+    public void setAge(int age) {
         this.age = age;
     }
 
-    public  String toString(){
-        return this.age+" "+this.name+"\n ";
+    public String toString() {
+        return this.age + " " + this.name + "\n ";
     }
 }

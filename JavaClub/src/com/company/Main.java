@@ -19,12 +19,13 @@ public class Main {
         return club;
 
     }
-    public static void editClubName(List<Club> clubs){
 
-        for (Club c:clubs) {
-            if(c.cname.equalsIgnoreCase(Input.addString("\nEnter name of club to edit : "))){
-            c.setCname(Input.addString("Enter new name of club : "));
-            return;
+    public static void editClubName(List<Club> clubs) {
+
+        for (Club c : clubs) {
+            if (c.cname.equalsIgnoreCase(Input.addString("\nEnter name of club to edit : "))) {
+                c.setCname(Input.addString("Enter new name of club : "));
+                return;
             }
         }
         System.out.println("Club  not found !!");
@@ -55,16 +56,16 @@ public class Main {
                     case 1:
                         clubs.add(createClub());
                         break;
-                        case 2:Main.editClubName(clubs);
-                            break;
+                    case 2:
+                        Main.editClubName(clubs);
+                        break;
                     case 3:
                         Main.display(clubs);
                         break;
                     default:
                         break;
                 }
-            }
-            catch (NumberFormatException e) {
+            } catch (NumberFormatException e) {
                 break;
             }
         }

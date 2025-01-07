@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class Club extends Player{
+public class Club extends Player {
 
     String cname;
-    List <Player> players = new ArrayList<>() ;
+    List<Player> players = new ArrayList<>();
 
     public List<Player> getPlayers() {
         return players;
@@ -30,7 +30,7 @@ public class Club extends Player{
         this.cname = cname;
     }
 
-    public  String toString(){
+    public String toString() {
         String s = this.players.toString() + " " + this.cname;
         return s;
     }
